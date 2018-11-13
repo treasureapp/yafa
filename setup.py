@@ -4,7 +4,7 @@ setup(
     name='yafa',
     version="0.0.1",
     packages=find_packages(),
-    url='https://github.com/grahamcrowell/cascadia',
+    url='https://github.com/treasureapp/yafa',
     author='Graham Crowell',
     author_email='graham.crowell@gmail.com',
     description='finance portfolio management app',
@@ -28,6 +28,7 @@ setup(
         "quandl",
         "matplotlib",
         "numpy",
+        "seaborn",
         "pytest"
     ]
     # entry_points='''
