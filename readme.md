@@ -19,9 +19,9 @@ Yet another finance app.
         - `conda activate yafa`
         - terminal prompt now starts with `(yafa)`
 1. Install Yafa into virtual environment
-    - `pip install --editable .`
+    - `pip install `[`--editable`](https://pip.pypa.io/en/stable/reference/pip_install/#editable-installs)` .`
 1. run tests
-    - `pytest`
+    - [`tox`](https://tox.readthedocs.io/en/latest/)
 1. use library from Jupyter notebook
     - `jupyter notebook`
     - open `jupyter_bootbooks/main.ipynb`
