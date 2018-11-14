@@ -29,6 +29,7 @@ setup(
         "matplotlib",
         "numpy",
         "seaborn",
+        "tox,"
         "pytest"
     ]
     # entry_points='''
