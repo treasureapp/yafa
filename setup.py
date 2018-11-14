@@ -17,7 +17,7 @@ setup(
         # 'Development Status :: 5 - Production/Stable',
         # 'Development Status :: 6 - Mature',
         # 'Development Status :: 7 - Inactive',
-        'Programming Language :: Python :: 3',
+        'Programming Language :: Python :: 3.7',
         'Intended Audience :: Developers',
         'Operating System :: POSIX',
         'Operating System :: MacOS :: MacOS X',
